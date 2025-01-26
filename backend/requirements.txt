@@ -1,7 +1,8 @@
-sqlalchemy
 fastapi
-psycopg2
 uvicorn
-python-dotenv
-supabase
-pydantic
+sqlalchemy
+psycopg2-binary
+pydantic 
+pydantic[email]
+websockets
+phonenumbers
